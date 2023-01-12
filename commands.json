@@ -1,6 +1,7 @@
 {
   "commands": [
     "clear A8",
+<<<<<<< HEAD
     "flag C3",
     "flag D2",
     "clear H8",
@@ -8,6 +9,10 @@
 
 
 
+=======
+    "clear A1",
+    "clear A2"
+>>>>>>> f92ccdd (movr2)
 
 
   ]
