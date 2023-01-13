@@ -1,6 +1,12 @@
 {
   "commands": [
+<<<<<<< HEAD
 
+=======
+    "clear A8",
+    "clear C4",
+    "clear F5"
+>>>>>>> 7c72174 (clear F5)
 
 
   ]
