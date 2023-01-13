@@ -1,7 +1,11 @@
 {
   "commands": [
     "clear A8",
+<<<<<<< HEAD
     "clear C4"
+=======
+<<<<<<< HEAD
+>>>>>>> b007028 (aaa)
     "flag C3",
     "flag D2",
     "clear H8",
@@ -9,6 +13,10 @@
 
 
 
+=======
+    "clear A1",
+    "clear A2"
+>>>>>>> f92ccdd (movr2)
 
 
   ]
