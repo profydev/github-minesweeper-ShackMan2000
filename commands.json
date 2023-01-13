@@ -25,6 +25,12 @@
     "clear H1",
     "clear H2",
     "flag H3"
+    ,"flag F4",
+    "clear D8",
+    "clear E8",
+    "clear G7",
+    "flag F7",
+    "clear F8"
 
 
 
